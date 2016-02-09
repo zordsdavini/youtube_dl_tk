@@ -1,4 +1,4 @@
-#!/bin/usr/python
+#!/usr/bin/python3
 
 import os
 import tkinter as tk
